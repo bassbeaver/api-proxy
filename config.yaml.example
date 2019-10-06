@@ -1,0 +1,5 @@
+port: 80
+root: /path/to/web-server/root
+api:
+    scheme: http
+    host: apihost.com
